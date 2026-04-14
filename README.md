@@ -1,4 +1,4 @@
-iant="standard" id="gh123"}
+
 # 👋 Hi, I'm Kartikey Jaiswal  
 
 ### 🚀 Full Stack Developer | 💡 AI Integration | 🧠 Problem Solver  
@@ -63,8 +63,7 @@ GitHub Streak
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🧑‍💻 GitHub: https://github.com/your-username  
+- 💼 LinkedIn: https://www.linkedin.com/in/kartikey-jaiswal-996a7123a/ 
 
 ---
 
