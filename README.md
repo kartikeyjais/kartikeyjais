@@ -1,52 +1,73 @@
-# Hi 👋, I'm Kartikey Jaiswal!
+iant="standard" id="gh123"}
+# 👋 Hi, I'm Kartikey Jaiswal  
 
-### 💻 Aspiring Software Engineer | DSA Enthusiast | Web Developer
-
-I am a BTech student passionate about **Data Structures, Algorithms, and Web Development**.  
-I aim to crack top MNCs like Microsoft and build impactful global tech products.
+### 🚀 Full Stack Developer | 💡 AI Integration | 🧠 Problem Solver  
 
 ---
 
-## 🏆 Competitive Programming
-- 💡 Practicing DSA daily
-- 🚀 Solving problems on LeetCode & Codeforces
+## 🧑‍💻 About Me  
+
+- 🔭 Full Stack Developer skilled in React, Node.js, Express, MongoDB, PostgreSQL  
+- 🤖 Hands-on experience in AI integration & modern AI tools  
+- 🧠 Strong analytical and problem-solving abilities  
+- 💻 Practicing Data Structures & Algorithms in C++  
+- 📚 Strong foundation in Core Computer Science subjects  
 
 ---
 
-## 🌟 What I’m Doing
-- 🔭 Currently working on: Full-stack projects  
-- 🌱 Learning: System Design, Backend Development  
-- 🎯 Goal: SDE role at Microsoft  
+## ⚡ Tech Stack  
+
+### 🖥️ Frontend  
+React
+Bootstrap
+HTML
+CSS
+
+### ⚙️ Backend  
+Node.js
+Express.js
+
+### 🗄️ Database  
+MongoDB
+PostgreSQL
+
+### 🤖 AI & Tools  
+Python
+LangChain
+Pinecone
+HuggingFace
 
 ---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: (add link)
-- 🌐 Portfolio: (add link)
+## 🧠 DSA & Core Subjects  
+
+- 💡 Solving Data Structures & Algorithms using C++  
+- 📚 Core Subjects:  
+  - 🧩 Operating Systems (OS)  
+  - 🗄️ Database Management Systems (DBMS)  
+  - 🧱 Object-Oriented Programming (OOPS)  
+  - 🌐 Computer Networks (CN)  
+  - 🏗️ System Design  
 
 ---
 
-## ⚡ Tech Stack
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+## 📈 GitHub Stats  
+
+Kartikey's GitHub stats
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 🔥 Streak Stats  
 
-<!--
-**kartikeyjais/kartikeyjais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub Streak
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me  
+
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 🧑‍💻 GitHub: https://github.com/your-username  
+
+---
+
+⭐ *"Building
